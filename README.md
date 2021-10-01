@@ -14,11 +14,11 @@
   
 <br></br>
 ##
-  ### 3. Then go to https://github.com/krishmurarka/temperoray-Hacktoberfest and click on *"star"*🌟 and *"fork"*🍴.
+  ### 3. Then go to https://github.com/cphainmerakaam/CPCODES-Hacktoberfest2021 and click on *"star"*🌟 and *"fork"*🍴.
 
 <br></br>
 ##
-  ### 4. Now click on the "HackerRank" folder and click on "*new file*"📁.
+  ### 4. Now click on the one of the  folder and click on "*new file*"📁.
 <br></br>
 ##
   ### 5. Type the name of the code with the proper extensions and then type the code⌨️ in the given area. 
