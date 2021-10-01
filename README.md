@@ -2,7 +2,7 @@
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
 # <div align="center">🖥️H4CKT0B3RF3ST 2021💻</div>
-### <div align="center">This repo's main purpose is to help newbies👶 to complete the Hacktoberfest Challenge.</div>
+### <div align="center">This repo's main purpose is to help newbies👶 to Learn about GitHub and Make a dedicated CP questions Repository</div>
 <br></br>
 
 ### <div align="left">STEPS:-</div>
