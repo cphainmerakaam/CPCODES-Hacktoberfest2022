@@ -1,6 +1,8 @@
 # CPCODES-Hacktoberfest2021
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
+![hacktober-logo](https://res.cloudinary.com/practicaldev/image/fetch/s--Gg3AHVhQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/of9b6i02ifmdq5zlbmkz.jpg)
+
 # <div align="center">🖥️H4CKT0B3RF3ST 2021💻</div>
 ### <div align="center">This repo's main purpose is to help newbies👶 to Learn about GitHub and Make a dedicated CP questions Repository</div>
 <br></br>
