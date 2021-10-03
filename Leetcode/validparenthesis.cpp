@@ -1,5 +1,5 @@
 /*
-C++ Program to check if string is balanced or not.
+C++ Program to check if string is balanced or not.(Link=> https://leetcode.com/problems/valid-parenthesis-string/)
   input=> s="({[]})"
   output=> YES
   explanation: string is balanced.
