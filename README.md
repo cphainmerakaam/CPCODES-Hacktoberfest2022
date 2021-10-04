@@ -18,7 +18,7 @@
 
 <br></br>
 ##
-  ### 4. Now click on the one of the  folder and click on "*new file*"📁.
+  ### 4. Read the Readme in every Folder and Now click on the one of the  folder and click on "*new file*"📁.
 <br></br>
 ##
   ### 5. Type the name of the code with the proper extensions and then type the code⌨️ in the given area. 
