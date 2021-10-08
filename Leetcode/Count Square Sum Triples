@@ -1,0 +1,17 @@
+//link to problem:https://leetcode.com/problems/count-square-sum-triples/
+class Solution {
+public:
+    int countTriples(int n) {
+        int count=0;
+        for(int i=1;i<=n;i++){
+            for(int j=1;j<=n;j++){
+                int p=i*i+j*j;
+                float r=sqrt(p);
+                int q=sqrt(p);
+                if((r-q<=0.000001)&&(q<=n)) count++;
+            }
+        }
+        return count;
+        
+    }
+};
