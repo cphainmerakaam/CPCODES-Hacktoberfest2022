@@ -1,3 +1,6 @@
+//Question Link: 
+//https://www.codechef.com/OCT21C/problems/ANDSUBAR
+
 #include<bits/stdc++.h>
 using namespace std;
 #define ll long long
