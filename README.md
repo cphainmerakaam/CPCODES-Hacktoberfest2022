@@ -14,7 +14,7 @@
   
 <br></br>
 ##
-  ### 3. Then go to https://github.com/cphainmerakaam/CPCODES-Hacktoberfest2021 and click on *"star"*🌟 and *"fork"*🍴.
+  ### 3. Then go to https://github.com/cphainmerakaam/CPCODES-Hacktoberfest2022 and click on *"star"*🌟 and *"fork"*🍴.
 
 <br></br>
 ##
